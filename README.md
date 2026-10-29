@@ -16,14 +16,9 @@
 
 ### 💼 Experience & Roles
 
--  **Research Intern** ➔ Indian Institute of Technology, Ropar | *Vicharanashala Lab*
--  **National Finalist** ➔ Pitch It Up | IIT Patna E-Summit | Startap Name - *FinFlow AI*
 -  **Final Round** ➔ Digital Address DPI Innovation Hackathon | Digital Governance Summit | Shaastra , IIT Madras
--  **Second RunnerUp** ➔ Credit Intelligence & Product Challenge 2026 | Creditplanner.in
 -  **Participant** ➔ Bharatiya Antariksh Hackathon 2026
--  **Participant** ➔ Convolve 4.0 - A Pan-IIT AI/ML Hackathon | IIT, Guwahati
--  **Student Ambassador** ➔ Google | Perplexity | Asian Paints
--  **Community Facilitator** ➔ Google Cloud | *Arcade Facilitator Program (Legend Tier)*
+-  
 
 ---
 
@@ -32,7 +27,6 @@
 - 🎓 Pursuing **BS in Data Science & Applications (IIT Madras)**
 - 💻 Building **Full-Stack Applications**, **AI Solutions**, and **Data Pipelines**
 - 🏆 Active participant in **National Hackathons**, Case Competitions, and Product Design
-- ⚡ Fun Fact: I turn coffee and raw datasets into interactive applications & dashboards
 
 ---
 
